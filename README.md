@@ -1,5 +1,4 @@
 # CSC3150-Assignments
-<hr>
 
 A1:100+bonus(0/10)
 
